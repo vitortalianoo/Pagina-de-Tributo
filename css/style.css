@@ -1,0 +1,106 @@
+
+.container-text{
+    text-align: center;
+}
+.introduct{
+    text-align: center;
+    font-style: italic;
+}
+.imagem-central{
+    align-items: center;
+    height: 600px;
+    width: 900px;
+    background-image: url("../img/offspring_1.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 40px;
+    margin: 0 auto
+}
+.texto-1{
+    text-align:center;
+    font-family: sans-serif;
+    margin-top: -15px;
+}
+#texto-2{
+    font-size: 40px;
+}
+.container{
+font-size: 22px;
+}
+.bold{
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size: 19px;
+}
+.container-2{
+    background-color: darkgrey;
+    padding: 40px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+.txt{
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    
+}
+.txt2{
+    font-size: 25px;
+    font-style: italic;
+    text-align: left;
+    
+}
+.curiosiades{
+    font-family: Arial;
+}
+.conteudo{
+    font-size: 22px;
+}
+.bold{
+ font-size: 20px;
+}
+.frase{
+    background-color: darkgray;
+    padding: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.conteudo-2{
+    text-align: left;
+    font-size: 50px;
+    margin-left: 60px;
+    font-weight: bold;
+}
+.conteudo-3{
+    font-style: italic;
+    text-align: left;
+    font-size: 25px;
+}
+.imagem-2{
+    align-items: center;
+    height: 1000px;
+    width: 1500px;
+    background-image: url("../img/offspring_2.jpeg");
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#image-txt{
+    text-align: center;
+    font-family: arial;
+    margin-top: 2px;
+    font-weight: bold;
+}
+#titulo{
+    margin-top: 100px;
+    margin-left: 40px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 35px;
+}
+#final{
+    margin-left: 40px;
+    font-family: arial;
+    font-size: 25px;
+}
